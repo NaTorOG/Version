@@ -5,3 +5,6 @@ https://www.spigotmc.org/resources/%E2%9A%A1-nickyg-premium-advanced-nickname-sy
 
 If you purchased NickyG Premium on McMarket
 https://www.mc-market.org/resources/21446/
+
+
+# CHANGELOG 5.5 & INSTALLATION
