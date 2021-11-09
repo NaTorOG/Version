@@ -1,3 +1,20 @@
+# VERSION 6.0
+1 - Added stats gui features ( /nickstats /nickstats <target> )
+2 - Added quickly way to color nicknames ( /colornick & /colornick #hex )
+3 - Added new messages and GUI to setup in config.yml
+4 - Fixed nickedlist bug
+5 - Improved MYSQL Performances
+
+# INSTALLATION FROM PREVIOUS NICKYG VERSIONS
+Are you updating nickyg from version < 6.0 ?
+If so >
+       1 - Shut down your server
+       2 - Delete your old config.yml and NickyG Premium.jar file
+       3 - Put in /plugins folder NickyG PREMIUM 6.0
+Are you using MySQL?
+You have 2 options > 1) Delete Table 'nicknamesdata' to let NickyG recreate the new one (recommended)
+                     2) Create 2 columns in Table 'nicknamesdata' named "CHANGES" , "LASTCHANGE"
+
 # VERSION 5.6
 1 - Fixed Console Logger Spam
 2 - Fixed exception for MySQL
