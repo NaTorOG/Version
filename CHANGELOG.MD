@@ -9,7 +9,7 @@
 Are you updating nickyg from version < 6.0 ?
 If so >
        1 - Shut down your server
-       2 - Delete your old config.yml and NickyG Premium.jar file
+       2 - Delete your old NickyG folder and NickyG Premium.jar file
        3 - Put in /plugins folder NickyG PREMIUM 6.0
 Are you using MySQL?
 You have 2 options > 1) Delete Table 'nicknamesdata' to let NickyG recreate the new one (recommended)
