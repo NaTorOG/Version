@@ -1,3 +1,14 @@
+# VERSION 6.1
+1 - Fixed QuitEvent console Error
+
+
+# INSTALLATION FROM PREVIOUS NICKYG VERSIONS
+Are you updating nickyg from version < 6.1 ?
+If so >
+       1 - Shut down your server
+       2 - Delete your old NickyG Premium.jar file
+       3 - Put in /plugins folder NickyG PREMIUM 6.0
+                     
 # VERSION 6.0
 1 - Added stats gui features ( /nickstats /nickstats <target> )
 2 - Added quickly way to color nicknames ( /colornick & /colornick #hex )
