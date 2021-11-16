@@ -1,13 +1,23 @@
+# VERSION 6.2
+1 - Removed SkinsRestorer Dependency(You will not need it anymore to let NickyG work) - If you need SKINS features you will need it
+2 - Fixed /resetnick 
+
+# INSTALLATION FROM PREVIOUS NICKYG VERSIONS
+Are you updating nickyg from version < 6.2 ?
+If so >
+       1 - Shut down your server
+       2 - Delete your old NickyG Premium.jar file
+       3 - Put in /plugins folder NickyG PREMIUM 6.2
+
 # VERSION 6.1
 1 - Fixed QuitEvent console Error
-
 
 # INSTALLATION FROM PREVIOUS NICKYG VERSIONS
 Are you updating nickyg from version < 6.1 ?
 If so >
        1 - Shut down your server
        2 - Delete your old NickyG Premium.jar file
-       3 - Put in /plugins folder NickyG PREMIUM 6.0
+       3 - Put in /plugins folder NickyG PREMIUM 6.1
                      
 # VERSION 6.0
 1 - Added stats gui features ( /nickstats /nickstats <target> )
