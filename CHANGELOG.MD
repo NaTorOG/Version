@@ -1,3 +1,19 @@
+# VERSION 6.3
+1 - Added new PAPI placeholder %nickyg_chatcolor% which refers to ChatColor of a Player
+    ! This new Placeholder can be used in external NickyG chatformat plugins, but will not work for Rainbow Color !
+2 - Added better MySQL compatibility for Old MySQL Class drivers
+
+# INSTALLATION FROM PREVIOUS NICKYG VERSIONS
+Are you updating nickyg from version < 6.3 ?
+If so >
+       1 - Shut down your server
+       2 - Delete your old NickyG Premium.jar file & config.yml
+       2.1 - If you do not want to delete your old config file, just add to your actual config, these values:
+       useSSL: false
+       verifyServerCertificate: false
+       requireSSL: false
+       3 - Put in /plugins folder NickyG PREMIUM 6.3
+
 # VERSION 6.2
 1 - Removed SkinsRestorer Dependency(You will not need it anymore to let NickyG work) - If you need SKINS features you will need it
 2 - Fixed /resetnick 
