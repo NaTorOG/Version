@@ -1,3 +1,12 @@
+# VERSION 7.0
+1 - Added compatibility for 1.18
+
+# INSTALLATION FROM PREVIOUS NICKYG VERSIONS
+Are you updating nickyg from version < 6.3 ?
+If so >
+       1 - Shut down your server
+       2 - Delete your old NickyG Premium.jar file & put NickyG 7.0
+
 # VERSION 6.3
 1 - Added new PAPI placeholder %nickyg_chatcolor% which refers to ChatColor of a Player
     ! This new Placeholder can be used in external NickyG chatformat plugins, but will not work for Rainbow Color !
