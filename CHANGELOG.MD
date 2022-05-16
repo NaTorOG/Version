@@ -1,3 +1,6 @@
+# VERSION 7.0.8
+! Fixed BUG related to Bungeecord network where players sometimes do not load correctly their nicknames.
+
 # VERSION 7.0
 1 - Added compatibility for 1.18
 
